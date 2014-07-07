@@ -8,5 +8,6 @@ namespace Test.Reactive
 {
     class Class2
     {
+        // added comment from user stuman08v2
     }
 }
